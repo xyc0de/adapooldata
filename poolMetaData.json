@@ -4,5 +4,6 @@
   "description": "Stake pool for peace",
   "homepage": "http://xc0de.io",
   "nonce": "1689014957",
-  "extended": "http://l.xc0de.io/mdex"
+  "extended": "http://l.xc0de.io/mdex",
+  "verification": "284692b006cc53dd69"
 }
