@@ -1,6 +1,8 @@
 {
-"name": "xc0de pool",
-"description": "The Wishing Well",
-"ticker": "XC0DE",
-"homepage": "https://xc0de.io"
+  "name": "xc0de",
+  "ticker": "XC0DE",
+  "description": "Stake pool for peace",
+  "homepage": "http://xc0de.io",
+  "nonce": "1689014957",
+  "extended": "http://l.xc0de.io/mdex"
 }
